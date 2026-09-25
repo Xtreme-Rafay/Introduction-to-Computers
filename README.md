@@ -19,3 +19,15 @@ A computer is an electronic device that manipulates data. Every generation of co
 3. **3rd Generation (1964–1971) - Integrated Circuits:** Cabinet-sized systems (~10 million ops/sec).
 4. **4th Generation (1971–2010) - Microprocessors:** Desktop and laptop era (billions of ops/sec).
 5. **5th Generation (2010–Present) - AI & Machine Learning:** Modern pocket-to-cloud systems.
+
+## Tools Used
+* Git and GitHub
+* Windows Command Prompt
+* VS Code Editor
+
+## Project Workflow
+git init
+git checkout -b Abdul_Rafay_Nawaz_26K-3142
+git add README.md
+git commit -m "Commit update"
+git push origin Abdul_Rafay_Nawaz_26K-3142
